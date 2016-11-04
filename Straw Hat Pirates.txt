@@ -1,3 +1,7 @@
 I think his bounty is at like 500m Beli now?
+<<<<<<< HEAD
 
 WHAT ARE HIS POWER LEVELS!
+=======
+Its over 9000!
+>>>>>>> testing
